@@ -49,6 +49,7 @@ namespace VmpcTest
 
 			try
 			{
+				// comment
 				byte[] key = StringToByteArray(tbKey.Text);
 				byte[] iv = StringToByteArray(tbIv.Text);
 
